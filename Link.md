@@ -1,40 +1,42 @@
 # Corso di laurea SSRI Online
+
 Questo git raccoglierà i link utili e le risorse del corso di laura in Sicurezza dei Sistemi e delle Reti Informatiche Online.
 
-###Piattaforme 
+### Piattaforme
+
 | Nome/link | Descrizione |
 | ----- | ----- |
 | [SSRI](http://ssrionline.unimi.it/login/index.php)| Piattaforma dedicata al CDL Online |
 | [ARIEL]()|Piattaforma E-Learning generico dell'UNIMI |
 
-###Risorse per lo studio
+### Risorse per lo studio
 | Nome/link | Descrizione |
 | ----- | ----- |
 | [Drive Studenti 2017/18](https://drive.google.com/drive/folders/0B_qRAwdMRXD5aXFLODJjRUZ0ck0?usp=sharing ) | Google drive contenente appunti del CDL 2017/18 |
 | [Drive exStudenti](https://drive.google.com/drive/folders/0B0LPH6XL7SlNRExLeEgyY3pUdEU?usp=sharing) | Google drive contentente appunti degli anni scorsi |
 | [Wiki](http://www.swappa.it/wiki/Main/HomePage) | Una wiki online con tanti appunti, istruzioni e temi di esame. |
 
-###Teniamoci in contatto
+### Teniamoci in contatto
 | Piattaforma | Descrizione |
 | ----- | ----- |
 | [Telegram](https://t.me/joinchat/BPKsUENJuR4lomCnBwAjgg) | Canale Telegram per gli iscritti al corso ONLINE |
 | [Telegram](https://t.me/canalessri) | Canale Telegram "Avvisi e News" |
 | [Gruppo FB](https://www.facebook.com/groups/SSRICrema/) | Gruppo riservato allo scambio di informazioni fra studenti dell'università di Crema |
 
-###Link Utili
+### Link Utili
 | Nome/link | Descrizione |
 | ----- | ----- |
 | [Tasse 2018/2019](http://www.unimi.it/studenti/tasse/119919.htm) | Alcune informazioni utili sulle tasse universitarie UNIMI |
 | [Serizio e-mail](http://www.unimi.it/studenti/61883.htm#par62003) | Descrizione e configurazione del servizio e-mail UNIMI |
 
-###Calendari
+### Calendari
 [Calendario accademico 2018/19](http://crema.di.unimi.it/sicurezza-online/calendario_online_18-19.pdf)
 
 [Prossimi esami corso ONLINE](http://www.unimi.it/foProssimiEsami/pdf/F1A)
 
 [Prossimi esami in presenza](http://www.unimi.it/foProssimiEsami/pdf/F68)
 
-###Risorse Utili
+### Risorse Utili
 Questa sezione raccoglie tutti quei siti e quelle organizzazioni che offrono i loro servizi o i loro software gratuitamente agli studenti univeritari utiizzando una mail valida di un Ateneo.
 
 | Nome/link | Descrizione |
