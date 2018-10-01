@@ -1,55 +1,49 @@
-# Corso di laurea SSRI
+# Corso di laurea SSRI Online
+Questo git raccoglierà i link utili e le risorse del corso di laura in Sicurezza dei Sistemi e delle Reti Informatiche Online.
 
-------
+###Piattaforme 
+| Nome/link | Descrizione |
+| --- | --- |
+| [SSRI](http://ssrionline.unimi.it/login/index.php)| Piattaforma dedicata al CDL Online |
+| [ARIEL]()|Piattaforma E-Learning generico dell'UNIMI |
 
-### Piattaforme ufficiali
+###Risorse per lo studio
+| Nome/link | Descrizione |
+| --- | --- |
+| [Drive Studenti 2017/18](https://drive.google.com/drive/folders/0B_qRAwdMRXD5aXFLODJjRUZ0ck0?usp=sharing ) | Google drive contenente appunti del CDL 2017/18 |
+| [Drive exStudenti](https://drive.google.com/drive/folders/0B0LPH6XL7SlNRExLeEgyY3pUdEU?usp=sharing) | Google drive contentente appunti degli anni scorsi |
+| [Wiki](http://www.swappa.it/wiki/Main/HomePage) | Una wiki online con tanti appunti, istruzioni e temi di esame. |
 
-| Descrizione | Link                                       |
-| ----------------------------------------------- | ------------------------------------------ |
-| SSRI Online, piattaforma dedicata al CDL Online | http://ssrionline.unimi.it/login/index.php |
-| Ariel, piattaforma generico corsi UNIMI         | https://ariel.unimi.it                     |
+###Teniamoci in contatto
+| Piattaforma | Descrizione |
+| --- | --- |
+| [Telegram](https://t.me/joinchat/BPKsUENJuR4lomCnBwAjgg) | Canale Telegram per gli iscritti al corso ONLINE |
+| [Telegram](https://t.me/canalessri) | Canale Telegram "Avvisi e News" |
+| [Gruppo FB](https://www.facebook.com/groups/SSRICrema/) | Gruppo riservato allo scambio di informazioni fra studenti dell'università di Crema |
 
+###Link Utili
+| Nome/link | Descrizione |
+| --- | --- |
+| [Tasse 2018/2019](http://www.unimi.it/studenti/tasse/119919.htm) | Alcune informazioni utili sulle tasse universitarie UNIMI |
+| [Serizio e-mail](http://www.unimi.it/studenti/61883.htm#par62003) | Descrizione e configurazione del servizio e-mail UNIMI |
 
-### Risorse per lo studio
+###Calendari
+[Calendario accademico 2018/19](http://crema.di.unimi.it/sicurezza-online/calendario_online_18-19.pdf)
 
-| Descrizione | Link |
-| ------------------------ | ------------------------------------------------------------ |
-| Drive Studenti 2017/18   | https://drive.google.com/drive/folders/0B_qRAwdMRXD5aXFLODJjRUZ0ck0?usp=sharing |
-| Drive Ex Studenti        | https://drive.google.com/drive/folders/0B0LPH6XL7SlNRExLeEgyY3pUdEU?usp=sharing |
-| Registrazioni SSRI Crema | https://videolezionicrema.ariel.ctu.unimi.it/v5/home/Default.aspx |
-| Wiki Studenti            | http://www.swappa.it/wiki/Main/HomePage |
+[Prossimi esami corso ONLINE](http://www.unimi.it/foProssimiEsami/pdf/F1A)
 
+[Prossimi esami in presenza](http://www.unimi.it/foProssimiEsami/pdf/F68)
 
-### Calendari
+###Risorse Utili
+Questa sezione raccoglie tutti quei siti e quelle organizzazioni che offrono i loro servizi o i loro software gratuitamente agli studenti univeritari utiizzando una mail valida di un Ateneo.
 
-| Descrizione                   | Link                                                         |
-| ----------------------------- | ------------------------------------------------------------ |
-| Calendario accademico 2018/19 | http://crema.di.unimi.it/sicurezza-online/calendario_online_18-19.pdf |
-| Prossimi esami corso ONLINE   | http://www.unimi.it/foProssimiEsami/pdf/F1A                  |
-| Prossimi esami in presenza    | http://www.unimi.it/foProssimiEsami/pdf/F68                  |
-
-
-### Tenersi in contatto
-
-| Descrizione                                      | Link                                         |
-| ------------------------------------------------ | -------------------------------------------- |
-| Canale Telegram per gli iscritti al corso ONLINE | https://t.me/joinchat/BPKsUENJuR4lomCnBwAjgg |
-| Canale Telegram "Avvisi e News"                  | https://t.me/canalessri                      |
-|                                                  |                                              |
-
-
-### Informazioni utili
-
-| Descrizione                      | Link                                          |
-| -------------------------------- | --------------------------------------------- |
-| Informazioni sulle tasse 2018/19 | http://www.unimi.it/studenti/tasse/119919.htm |
+| Nome/link | Descrizione |
+| --- | --- |
+| [JetBrains](https://www.jetbrains.com/student/) | Offre i sui principali ambienti di sviluppo per un anno |
+| [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) | 100 dollari per l'utilizzo della piattaforma Microsoft Azure |
+| [Microsoft Imagine](https://imagine.microsoft.com/en-US/Account/Manage) | Alcuni tools e OS Microsoft, gratuitamente per un anno |
+| [Office 365](https://products.office.com/it-it/student/office-in-education) | La suite Microsoft Office 365 scaricabile e utilizzabile gratuitamente |
+| [GitHub](https://education.github.com/pack) | Lo Student Developer Pack di github |
 
 
-### Risorse utili per gli iscritti 
-
-| Descrizione                                                  | Link |                                                        
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Github developer Pack                                        | https://education.github.com/pack                            |
-| Office 365 gratuito per gli iscritti UNIMI                   | https://products.office.com/it-it/student/office-in-education |
-| Alcuni programmi e OS gratuiti per gli iscritti ai corsi universitari. | https://imagine.microsoft.com/en-US/Account                  |
 
